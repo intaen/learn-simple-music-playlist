@@ -5,6 +5,7 @@
 So, I get task to make a simple apps like spotify (thats why I name the apps with spookify), and I make the simple apps, still no music player, just get the list of artist, genre, and song.
 I use two programming language to build this, golang for backend and kotlin for frontend. Stack in this apps are:
 #### Golang:
++ RestAPI
 + MySql
 + Gorilla Mux
 #### Kotlin:
